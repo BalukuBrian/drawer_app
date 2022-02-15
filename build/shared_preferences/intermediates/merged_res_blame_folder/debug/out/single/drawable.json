@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\BALBRI\\FlutterProjects\\drawer_app\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\BALBRI\\.gradle\\caches\\transforms-3\\f65f4cd570a7a7508bf22db08dc5af39\\transformed\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\BALBRI\\FlutterProjects\\drawer_app\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\BALBRI\\.gradle\\caches\\transforms-3\\f65f4cd570a7a7508bf22db08dc5af39\\transformed\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\BALBRI\\FlutterProjects\\drawer_app\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\BALBRI\\.gradle\\caches\\transforms-3\\f65f4cd570a7a7508bf22db08dc5af39\\transformed\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BALBRI\\FlutterProjects\\drawer_app\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\BALBRI\\.gradle\\caches\\transforms-3\\f65f4cd570a7a7508bf22db08dc5af39\\transformed\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    }
+]
